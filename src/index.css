@@ -1,0 +1,13 @@
+button:disabled{
+
+    cursor: not-allowed;
+
+}
+
+
+
+span{
+
+    color: black;
+    margin: 10px;
+}
